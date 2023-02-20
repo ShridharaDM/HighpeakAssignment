@@ -1,0 +1,62 @@
+
+OUT PUT :1
+===============================================
+
+Enter the number of Jobs:
+3
+Enter job start time, end time, and earnings:
+0900
+1030
+100
+Enter job start time, end time, and earnings:
+1000
+1200
+500
+Enter job start time, end time, and earnings:
+1100
+1200
+300
+Number of jobs left: 2
+Earnings of other employees: 400
+
+=================================================================
+
+OUT PUT :2
+====================================================================
+Enter the number of Jobs:
+3
+Enter job start time, end time, and earnings:
+0900
+1000
+250
+Enter job start time, end time, and earnings:
+0945
+1200
+550
+Enter job start time, end time, and earnings:
+1130
+1500
+150
+Number of jobs left: 2
+Earnings of other employees: 400
+===============================================================================
+
+OUT PUT :3
+========================================================================
+Enter the number of Jobs:
+3
+Enter job start time, end time, and earnings:
+0900
+1030
+100
+Enter job start time, end time, and earnings:
+1000
+1200
+100
+Enter job start time, end time, and earnings:
+1100
+1200
+100
+Number of jobs left: 2
+Earnings of other employees: 100
+
